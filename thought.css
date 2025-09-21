@@ -1,0 +1,239 @@
+body{
+    background-color: rgb(15, 1, 1);
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-top: 100px;
+     font-family: sans-serif;
+     color: white;
+}
+h1 {
+    font-size: 50px;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 0%;
+}
+p{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.blog{ 
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+    padding-top: 20px;
+}
+.topics{
+    padding: 8px 16px;
+    border: 1px solid #444;
+    border-radius: 20px;
+    color: white
+}
+.link{
+color: orange;
+text-decoration: none;
+}
+.font {
+font-size: 30px;
+margin-top: 15;
+margin-bottom: 15px;
+}
+a{
+    border: 2;
+    border-color: white;
+    border-radius: 50;
+    text-decoration: none;
+}
+
+.topics:hover{
+    background-color: orange;
+    color: black;
+}
+.topicc{
+    padding-top: 8px;
+    text-decoration: underline;
+    color: white;
+}
+.guide{
+    font-family: sans-serif;
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
+.guide:hover{
+    color: orange
+}
+p{
+    font-family: sans-serif;
+    font-size: 20px;
+    
+}
+.client {
+    font-family: sans-serif;
+    margin-top: 30;
+    
+
+
+}
+.vendela{
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.vendela:hover{
+    color: orange;
+}
+.design{
+    color: white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.design:hover{
+    color: orange;
+}
+
+a {
+    color: white;
+}
+.Alpha{
+    font-family: sans-serif;
+    font-size: 35px;
+    font-weight: 80px;
+      margin-top: 60px;
+      margin-bottom: 5px;
+}
+.Alpha:hover{
+    color: goldenrod;
+}
+
+
+.coming{
+     margin-bottom: 5px;
+    font-size: 22px;
+    margin-top: 5px;
+}
+.date{
+    font-size: 20px;
+    margin-top: 5px;
+}
+.date:hover{
+    color: goldenrod;
+    margin-bottom: 5px;
+}
+.Ruby{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.AI{
+    font-family: sans-serif;
+    font-size: 30px;
+    margin-top: 60px;
+    margin-bottom: 5px;
+}
+.tools{
+    margin-top: 5px;
+}
+.user{
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 100;
+}
+.Giant{
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: 60px;
+      margin-top: 60px;
+      margin-bottom: 5px;
+}
+.larry{
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-size: 20px; 
+}
+.larry:hover{
+    color: goldenrod;
+}
+.cast{
+    color: white;
+}
+.cast:hover{
+    color: orange;
+}
+.dev{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-bottom: 5PX;
+}
+a{
+    color: #ffe7a3;
+}
+.dev:hover{
+    color: orange;
+}
+.sult:hover{
+    color: orange;
+}
+.meet{
+  font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-bottom: 5PX;   
+}
+.meet:hover{
+    color: orange;
+}
+.sarah:hover{
+color: orange;
+}
+.event{
+    font-family: sans-serif;
+    font-weight: 50;
+    font-size: 18px;
+}
+.event:hover{
+    color: orange;
+}
+.work{
+    font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-bottom: 5PX;  
+}
+.Upcoming{
+       font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-bottom: 5PX;  
+}
+.React{
+    color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+font-size: 15px;
+font-weight: 100;
+}
+.React:hover{
+    color: orangered;
+}
+.product{
+      font-size: 30px;
+    font-family: sans-serif;
+    margin-top: 50px;
+    margin-bottom: 5PX; 
+}
+.startup{
+ color: white;
+    font-family: sans-serif;
+    text-transform: uppercase;
+font-size: 15px;
+font-weight: 100;
+}
+.startup:hover:{
+    color: orangered;
+}
